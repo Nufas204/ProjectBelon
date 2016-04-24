@@ -1,0 +1,39 @@
+@media screen and (max-width:800px) {
+
+	body {
+		font-family: 'Varela Round', sans-serif;
+	}
+	}
+
+	img {
+		max-width: 100%;
+		
+	}
+	nav ul li {
+		display: inline-block;
+		list-style-type: none;
+		background: #FF7373;
+		color: white;
+		padding: 5px 15px;
+	}
+	/*Heading Style*/
+	h1{ 
+		background: "images/bg.jpg";
+		padding: 0.5%;
+	}
+
+	 h2{
+		color: 
+	 }
+	
+
+	/*Classes Styles*/
+	.col{
+		text-align: center;
+		color: #999;
+	}
+	.container{
+	text-align: center;
+	overflow: hidden;
+	}
+}
