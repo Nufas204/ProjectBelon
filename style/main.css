@@ -28,13 +28,25 @@ h2{
 	text-align: center;
 	padding: 0.5%;
 }
+
+p {
+	background: #700;
+	color: white;
+	text-align: center; 
+	padding: 0.5%;
+}
 /*Classes Styles*/
 .col{
 	text-align: center;
 	color: #999;
 }
 .container{
-text-align: center;
-overflow: hidden;
+	text-align: center;
+	overflow: hidden;
 }
 
+.tab2{
+	text-align: center;
+	background: #020;
+	color: white;
+}
